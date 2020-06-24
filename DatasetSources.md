@@ -58,6 +58,10 @@ Kaggle
 •	https://www.kaggle.com/datasets 
 •	A huge variety of different datasets 
 
+Kaggle - the Movie Dataset
+• https://www.kaggle.com/rounakbanik/the-movies-dataset
+• 45K movies with Data points of cast, crew, plot keywords...
+
 Amazon Reviews
 •	 https://snap.stanford.edu/data/web-Am... 
 •	35M product reviews from 6.6M users 
